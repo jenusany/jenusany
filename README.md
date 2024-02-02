@@ -1,5 +1,5 @@
 # 💫 About Me:
-First-year computer science student at Western University<br>Currently in a Data Structures and Algorithms course<br>Looking for summer 2024 Internships!
+First-year computer science student at Western University<br>Currently in a Data Structures and Algorithms course<br><br>Visit my <a href="https://jenusany.github.io/">Website<a>!<br>Looking for summer 2024 Internships!
 
 
 ## 🌐 LinkedIn:
