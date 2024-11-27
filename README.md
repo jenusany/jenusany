@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Second-year computer science student at Western University<br>🌐 Visit my <a href="https://jenusany.github.io/">Personal Portfolio Website<a>!<br>🏢 Looking for summer 2024 Internships!
+🏫 Second-year computer science student at Western University<br>🌐 Visit my <a href="https://jenusany.github.io/">Personal Portfolio Website<a>!<br>🏢 Looking for summer 2025 Internships!
 
 
 ## 🌐 LinkedIn:
